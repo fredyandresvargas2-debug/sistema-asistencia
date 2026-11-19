@@ -12,7 +12,7 @@ Es la misma funcionalidad de la app de escritorio, pero accesible desde el naveg
 
 ## Requisitos
 
-- Python 3.9 o superior
+- Python 3.5 o superior
 - Conexión a internet solo para instalar dependencias la primera vez
 
 ---
